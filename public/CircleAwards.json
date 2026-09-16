@@ -1,0 +1,208 @@
+{
+    "1":{ 
+    "id": "1", 
+    "poster": "/postersCircle/atartarugavermelharoda.png", 
+    "centerPoster": "/postersCircle/atartarugavermelha.png", 
+    "titulo": "A Tartaruga Vermelha",
+    "premios": {
+        "Festival de Cannes (2016)": {
+            "1" : "Prêmio Especial do Júri na mostra Un Certain Regard (Prix Spécial du Certain Regard)."
+        },
+        "Annie Awards (2017)":{
+           "1": "Melhor Animação Independente."
+        },
+        "Prêmio Magritte (Bélgica, 2017)":
+        {
+            "1": "Melhor Filme de Animação",
+            "2": "Melhor Som"
+        }
+    }
+  },
+  "2":{ 
+    "id": "2", 
+    "poster": "/postersCircle/aviagemdechirriroroda.png", 
+    "centerPoster": "/postersCircle/aviagemdechirriro.png", 
+    "titulo": "A Viagem de Chihiro",
+    "premios": {
+        "Oscar (Academy Awards, 2003)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Festival Internacional de Cinema de Berlim (2002)":{
+            "1": "Urso de Ouro (Melhor Filme)."
+        },
+        "Annie Awards (2002)":{
+            "1": "Melhor Filme de Animação.",
+            "2": "Melhor Direção de Animação.",
+            "3": "Melhor Roteiro.",
+            "4": "Melhor Trilha Sonora."
+        },
+        "Japan Academy Film Prize (2002)":{
+            "1": "Melhor Filme do Ano."
+        },
+        "Saturn Awards (2003)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Satellite Awards (2003)":{
+            "1": "Melhor Filme de Animação ou Mídia Mista."
+        },
+        "Mainichi Film Awards (2002)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Blue Ribbon Awards (2002)":{
+            "1": "Melhor Filme."
+        }
+    }
+  },
+  "3":{ 
+    "id": "3", 
+    "poster": "/postersCircle/meuamigototororoda.png", 
+    "centerPoster": "/postersCircle/meuamigototoro.png", 
+    "titulo": "Meu Amigo Totoro",
+    "premios": {
+        "Kinema Junpo Awards (1989)":{
+            "1": "Melhor Filme Japonês do Ano.",
+            "2": "Melhor Diretor – Escolha dos Leitores."
+        },
+        "Mainichi Film Awards (1988)":{
+            "1": "Melhor Filme.",
+            "2": "Prêmio Ōfuji Noburō."
+        },
+        "Blue Ribbon Awards (1989)":{
+            "1": "Prêmio Especial do Júri."
+        },
+        "Animage Anime Grand Prix (1988)":{
+            "1": "Grande Prêmio de Melhor Anime."
+        }
+    }
+  },
+  "4":{ 
+    "id": "4", 
+    "poster": "/postersCircle/ocasteloanimadoroda.png", 
+    "centerPoster": "/postersCircle/ocasteloanimado.png", 
+    "titulo": "O Castelo Animado",
+    "premios": {
+        "Festival Internacional de Cinema de Veneza (2004)":{
+            "1": "Prêmio Osella de Ouro por Realização Técnica."
+        },
+        "New York Film Critics Circle Awards (2005)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Tokyo Anime Award (2005)":{
+            "1": "Animação do Ano.",
+            "2": "Melhor Direção.",
+            "3": "Melhor Trilha Sonora."
+        },
+        "Los Angeles Film Critics Association (2005)":{
+            "1": "Melhor Trilha Sonora."
+        },
+        "Nebula Awards (2007)":{
+            "1": "Melhor Roteiro."
+        },
+        "Mainichi Film Awards (2004)":{
+            "1": "Melhor Filme – Escolha dos Leitores."
+        }
+    }
+  },
+  "5":{ 
+    "id": "5", 
+    "poster": "/postersCircle/ocontodaprincesakaguyaroda.png", 
+    "centerPoster": "/postersCircle/ocontodaprincesakaguya.png", 
+    "titulo": "O Conto da Princesa Kaguya",
+    "premios": {
+        "Los Angeles Film Critics Association (2014)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Boston Society of Film Critics (2014)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Toronto Film Critics Association (2014)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Asia Pacific Screen Awards (2014)":{
+            "1": "Prêmio de Filme de Animação."
+        },
+        "Mill Valley Film Festival (2014)":{
+            "1": "Prêmio do Público para Melhor Filme de Animação."
+        },
+        "Mainichi Film Awards (2013)":{
+            "1": "Prêmio de Filme de Animação."
+        }
+    }
+  },
+  "6":{ 
+    "id": "6", 
+    "poster": "/postersCircle/omeninoeagarcaroda.png", 
+    "centerPoster": "/postersCircle/omeninoeagarca.png", 
+    "titulo": "O Menino e a Garça",
+    "premios": {
+        "Oscar (Academy Awards, 2024)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Globo de Ouro (Golden Globes, 2024)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "BAFTA Awards (2024)":{
+            "1": "Melhor Filme de Animação."
+        },
+        "Japan Academy Film Prize (2024)":{
+            "1": "Animação do Ano."
+        },
+        "Annie Awards (2024)":{
+            "1": "Melhores Storyboards em Animação.",
+            "2": "Melhor Animação de Personagem."
+        },
+        "Mainichi Film Awards (2024)":{
+            "1": "Prêmio Ōfuji Noburō."
+        }
+    }
+  },
+  "7":{ 
+    "id": "7", 
+    "poster": "/postersCircle/princesamononokeroda.png", 
+    "centerPoster": "/postersCircle/princesamononoke.png", 
+    "titulo": "A Princesa Mononoke",
+    "premios": {
+        "Mainichi Film Awards (1997)":{
+            "1": "Melhor Filme.",
+            "2": "Melhor Filme de Animação.",
+            "3": "Prêmio Ōfuji Noburō.",
+            "4": "Melhor Filme – Escolha dos Leitores."
+        },
+        "Animage Anime Grand Prix (1997)":{
+            "1": "Grande Prêmio de Melhor Anime."
+        },
+        "Hochi Film Awards (1997)":{
+            "1": "Prêmio Especial."
+        },
+        "Blue Ribbon Awards (1998)":{
+            "1": "Prêmio Especial."
+        },
+        "Japan Academy Film Prize (1998)":{
+            "1": "Melhor Filme do Ano.",
+            "2": "Prêmio Especial pela inovação e impacto técnico."
+        },
+        "Kinema Junpo Awards (1998)":{
+            "1": "Melhor Filme – Escolha dos Leitores.",
+            "2": "Melhor Diretor – Escolha dos Leitores."
+        }
+    }
+  },
+  "8":{ 
+    "id": "8", 
+    "poster": "/postersCircle/tumulodosvagalumesroda.png", 
+    "centerPoster": "/postersCircle/tumulodosvagalumes.png", 
+    "titulo": "O Túmulo dos Vagalumes",
+    "premios": {
+        "Japan Catholic Film Award (Japão, 1988)":{
+            "1": "Melhor Filme."
+        },
+        "Blue Ribbon Awards (1989)":{
+            "1": "Prêmio Especial do Júri."
+        },
+        "Chicago International Children's Film Festival (EUA, 1994)":{
+            "1": "Prêmio do Júri de Animação.",
+            "2": "Prêmio Direitos da Criança"
+        }
+    }
+  }
+}
