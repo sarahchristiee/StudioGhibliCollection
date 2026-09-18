@@ -3,6 +3,7 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 
+import Header from "./components/Header/Header";
 import HeroSection from "./components/HeroSection/HeroSection";
 import CircleAwards from "./components/CircleAwards/CircleAwards";
 import Footer from "./components/Footer/Footer";
@@ -30,6 +31,7 @@ export default function Home() {
 
   return (
     <>
+      <Header />
       <main className="min-h-[250vh] w-full m-0">
         <HeroSection />
 
