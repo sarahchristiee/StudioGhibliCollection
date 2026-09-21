@@ -1,0 +1,342 @@
+{"filmes" : [
+    {
+        "id": "1",
+        "card": "/Files/MoviesCardsImg/chihiro.jpg",
+        "poster": "/Files/MoviesPoster/chihiro.jpg",
+        "titulo": "A viagem de Chihiro",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "2001 ‧ Fantasia/Aventura ‧ 2h 5m",
+        "nota": "8,6/10",
+        "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
+        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "2",
+        "card": "/Files/MoviesCardsImg/marnie.jpg",
+        "poster": "/Files/MoviesPoster/marnie.jpg",
+        "titulo": "As Memórias de Marnie",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Anna, uma menina solitária e curiosa, decide explorar uma velha mansão abandonada e conhece uma garota loira misteriosa que somente ela consegue ver.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "3",
+        "card": "/Files/MoviesCardsImg/kiki.jpg",
+        "poster": "",
+        "titulo": "O Servico de Entregas Da Kiki",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Por ordem de sua mãe, Kiki parte para um aprendizado de um ano, acompanhada por seu gato preto. A um comando de sua vassoura mágica, ela vai parar na charmosa cidadezinha de Moreoastal. Infelizmente, os hotéis locais não aceitam bruxas e a polícia a flagra fazendo algumas travessuras.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "4",
+        "card": "/Files/MoviesCardsImg/totoro.jpg",
+        "poster": "",
+        "titulo": "Meu Amigo Totoro",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "As irmãs Satsuki e Mei se mudam para o campo para ficar mais perto do hospital onde sua mãe está internada. Lá conhecem os Totoros, adoráveis criaturas místicas e alegres, que só podem ser vistas pelas crianças. Com eles, as duas irmãs viverão mágicas aventuras no campo.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "5",
+        "card": "/Files/MoviesCardsImg/kokuriko.jpg",
+        "poster": "",
+        "titulo": "Da Colina Kokuriko",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Os adolescentes Umi e Shun lutam para preservar um velho edifício que vai ser demolido por causa das Olimpíadas de Tóquio.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "6",
+        "card": "/Files/MoviesCardsImg/castelo.jpg",
+        "poster": "",
+        "titulo": "O Castelo Animado",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma velha. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que pode ajudá-la a reverter o feitiço.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "7",
+        "card": "/Files/MoviesCardsImg/garca.jpg",
+        "poster": "",
+        "titulo": "O Menino e a Garça",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Mahito, um menino de 12 anos, luta para se estabelecer em uma nova cidade após a morte de sua mãe. Quando uma garça falante conta para Mahito que sua mãe continua viva, ele entra em uma torre abandonada em busca dela, o que o leva para outro mundo.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "8",
+        "card": "/Files/MoviesCardsImg/vidasaovento.jpg",
+        "poster": "",
+        "titulo": "Vidas ao Vento",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Jiro Horikoshi é um jovem que vive em uma cidade no interior do Japão. Ele tem o sonho de voar em um avião com formato de pássaro. A partir desse sonho, Jiro decide que construir um avião como deseja e colocá-lo no ar é a meta de sua vida. Durante a busca pela realização deste objetivo, ele conhece Naoko, uma jovem encantadora por quem se apaixona. No entanto, Naoko fica profundamente doente, sem saber se sobreviverá, e os planos de Jiro podem estar prestes a mudar.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "9",
+        "card": "/Files/MoviesCardsImg/ponyo.jpg",
+        "poster": "",
+        "titulo": "Ponyo: Uma Amizade Que Veio do Mar",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "O garoto Sousuke encontra um peixinho dourado preso em uma garrafa e decide libertá-lo, sem saber que se trata da deusa do mar Ponyo. Filha de um poderoso mago, ela se comove com a atitude do menino e usa a magia do pai para se transformar em humana. Dessa forma, acredita poder fortalecer a amizade com Sousuke. Porém, a substância de sua poção mágica pode colocar em risco o vilarejo onde mora o menino.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "10",
+        "card": "/Files/MoviesCardsImg/pequeninos.jpg",
+        "poster": "",
+        "titulo": "O Mundo dos Pequeninos",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Arrietty e sua família são seres pequenos, moram sob uma casa antiga e sobrevivem roubando itens da casa dos humanos e colocando a culpa em gatos e ratos. Quando o jovem Shawn se hospeda na casa, fica amigo de Arrietty, colocando o segredo em risco.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "11",
+        "card": "/Files/MoviesCardsImg/kaguya.jpg",
+        "poster": "",
+        "titulo": "O Conto da Princesa Kaguya",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Kaguya era uma bebê que foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobiçada por cinco nobres, dentre eles, o próprio imperador.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "12",
+        "card": "/Files/MoviesCardsImg/gatos.jpg",
+        "poster": "",
+        "titulo": "O Reino dos Gatos",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Haru salva um gato que estava prestes a ser atropelado por um caminhão e descobre que ele é, na verdade, um príncipe. Por gratidão o Rei dos Gatos a pede em casamento, e a menina é levada para o Reino dos Gatos. Agora, ela quer sua liberdade.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "13",
+        "card": "/Files/MoviesCardsImg/nausicaa.jpg",
+        "poster": "",
+        "titulo": "Nausicaä do Vale do Vento",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Mil se passaram após a Terra ser varrida pela Guerra dos Sete Dias de Fogo. O planeta se tornou hostil, cheio de florestas tóxicas e insetos gigantes. Enquanto tenta navegar nesse mundo de perigos, a princesa Nausicaä, a soberana de um pequeno reino, tenta de todas as formas salvar o seu povo e impedir que duas nações entrem em guerra e se destruam em um planeta agonizante.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "14",
+        "card": "/Files/MoviesCardsImg/vagalumes.jpg",
+        "poster": "",
+        "titulo": "Túmulo dos Vagalumes",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Os irmão Setsuko e Seita vivem no Japão em meio a Segunda Guerra Mundial. Após a morte da mãe em um bombardeio e a convocação do pai para a Guerra, eles vão morar com alguns parentes. Insatisfeitos, saem da cidade e acabam em um abrigo na floresta.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "15",
+        "card": "/Files/MoviesCardsImg/ontem.jpg",
+        "poster": "",
+        "titulo": "Memórias de Ontem",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Taeko é uma mulher solteira que se dedica apenas ao trabalho. Ela sai de sua nativa Tóquio pela primeira vez e viaja a Yamagata para visitar a família da irmã durante a colheita anual de açafrão-bastardo. Ao longo da viagem, ela começa a questionar se sua vida estressante é o que desejava quando jovem.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "16",
+        "card": "/Files/MoviesCardsImg/porco.jpg",
+        "poster": "",
+        "titulo": "Porco Rosso: O Último Herói",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "No final da década de 1920, o piloto de avião Porco Rosso luta pela paz nos céus como um soldado contratado. Em suas viagens, ele se une à mecânica Fiona, que o apoia na luta contra o pirata do ar Curtis.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "17",
+        "card": "/Files/MoviesCardsImg/sussurros.jpg",
+        "poster": "",
+        "titulo": "Sussurros do Coração",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Shizuku, uma estudante que sonha ser uma escritora e decide, durante o verão, ler vinte livros. Mas, curiosamente, todas as edições que Shizuki pegou na biblioteca já haviam sido lidas por um tal de Seiji Amasawa.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "18",
+        "card": "/Files/MoviesCardsImg/oceano.jpg",
+        "poster": "",
+        "titulo": "Eu Posso Ouvir o Oceano",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "A chegada de uma bela estudante de Tóquio provoca uma problema na relação entre dois melhores amigos.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "19",
+        "card": "/Files/MoviesCardsImg/terramar.jpg",
+        "poster": "/Files/MoviesPoster/terramar.jpg",
+        "titulo": "Contos de Terramar",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "O mago Ged observa que o mundo está em desequilíbrio e conhece Arren, um jovem príncipe que diz estar sendo perseguido por uma sombra. Os dois se unem para descobrir o que está causando a instabilidade e encontram a bruxa Kumo.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    },
+    {
+        "id": "20",
+        "card": "/Files/MoviesCardsImg/pompoko.jpg",
+        "poster": "",
+        "titulo": "PomPoko: A Grande Batalha dos Guaxinins",
+        "tagCard": "Hayao Miyazaki - 2014",
+        "tags": "",
+        "nota": "",
+        "sinopse": "Os humanos estão expulsando os guaxinins de seu lar, mas eles estão prontos para lutar e revidar.",
+        "trailer": "",
+        "ficha":{
+            "diretor": "Hiromasa Yonebayashi",
+            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
+            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        },
+        "galeria" : []
+    }
+]}

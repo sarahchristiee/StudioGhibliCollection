@@ -2,15 +2,15 @@
 import { motion, useScroll, useTransform } from 'motion/react';
 import { useRef } from 'react';
 
-interface HeroSectionProps {
+interface HeroSectionMovieProps {
     backgroundImage?: string;
     title?: string;
 }
 
-export default function HeroSection({ 
+export default function HeroSectionMovie({ 
     backgroundImage = "/img/fundo2.jpg",
     title = "STUDIO GHIBLI COLLECTION"
-}: HeroSectionProps) {
+}: HeroSectionMovieProps) {
 
     const containerRef = useRef<HTMLDivElement>(null);
 
@@ -41,7 +41,7 @@ export default function HeroSection({
           [-webkit-mask-image:linear-gradient(to_bottom,black_80%,transparent_100%)]
         "
         >
-        <h1 className="absolute left-0 bottom-30 px-4 text-4xl font-bodoni font-bold text-white tracking-tight w-2xl sm:text-6xl lg:text-7xl">
+        <h1 className="absolute left-4 text-center bottom-30 bg-[#026E00] p-4 text-2xl font-bodoni font-bold text-white tracking-tight w-fit sm:text-6xl lg:text-4xl">
           {title}
         </h1>
 
