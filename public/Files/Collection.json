@@ -14,7 +14,7 @@
             "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
             "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
         },
-        "galeria" : []
+        "galeria" : ["/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg"]
     },
     {
         "id": "2",
@@ -337,6 +337,6 @@
             "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
             "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
         },
-        "galeria" : []
+        "galeria" : ["/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg"]
     }
 ]}

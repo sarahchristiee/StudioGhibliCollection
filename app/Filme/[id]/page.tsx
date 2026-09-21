@@ -1,6 +1,6 @@
 import moviesData from '@/../public/Files/Collection.json';
 import HeroSectionMovie from '../../components/HeroSectionMovie/HeroSectionMovie';
-import Link from 'next/link';
+import Slider from '../../components/Slider/Slider';
 
 import Header from '../../components/Header/Header';
 import Footer from '../../components/Footer/Footer';
@@ -90,16 +90,16 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                         <table className="w-full text-left border-collapse">
                             <tbody>
                                 <tr>
-                                    <th className="py-3 px-4 font-bold text-neutral-800">Direção</th>
-                                    <td className="py-3 px-4 text-neutral-600">{filme.ficha.diretor}</td>
+                                    <th className="py-3 px-4 font-bold text-[#026E00]">Direção</th>
+                                    <td className="py-3 text-neutral-600">{filme.ficha.diretor}</td>
                                 </tr>
                                 <tr>
-                                    <th className="py-3 px-4 font-bold text-neutral-800">Roteiristas</th>
-                                    <td className="py-3 px-4 text-neutral-600">{filme.ficha.roteiristas}</td>
+                                    <th className="py-3 px-4 font-bold text-[#026E00]">Roteiristas</th>
+                                    <td className="py-3 text-neutral-600">{filme.ficha.roteiristas}</td>
                                 </tr>
                                 <tr>
-                                    <th className="py-3 px-4 font-bold text-neutral-800">Estrelas</th>
-                                    <td className="py-3 px-4 text-neutral-600">{filme.ficha.estrelas}</td>
+                                    <th className="py-3 px-4 font-bold text-[#026E00]">Estrelas</th>
+                                    <td className="py-3 text-neutral-600">{filme.ficha.estrelas}</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -108,7 +108,14 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                 </section>
 
                 {/* carrosel gelaria */}
-                <section>
+                <section className='w-full max-w-6xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
+                    <div className='flex items-center gap-4 w-full pb-5'>
+                        <p className='whitespace-nowrap font-bold text-3xl font-franklin'>Galeria</p>
+                        <hr className='flex-1 border-t-2 border-[#026E00]' />
+                    </div>
+
+                    <Slider images={filme.galeria} />
+
 
                 </section>
 
