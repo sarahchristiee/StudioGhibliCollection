@@ -1,342 +1,621 @@
-{"filmes" : [
-    {
-        "id": "1",
-        "card": "/Files/MoviesCardsImg/chihiro.jpg",
-        "poster": "/Files/MoviesPoster/chihiro.jpg",
-        "titulo": "A viagem de Chihiro",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "2001 ‧ Fantasia/Aventura ‧ 2h 5m",
-        "nota": "8,6/10",
-        "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
-        "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+{
+    "filmes": [
+        {
+            "id": "1",
+            "card": "/Files/MoviesCardsImg/chihiro.jpg",
+            "poster": "/Files/MoviesPoster/chihiro.jpg",
+            "titulo": "A Viagem de Chihiro",
+            "tagCard": "Hayao Miyazaki - 2001",
+            "tags": "2001 ‧ Fantasia/Aventura ‧ 2h 5m",
+            "nota": "8,6/10",
+            "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
+            "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Rumi Hiiragi, Miyu Irino, Mari Natsuki"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/chihiro01.jpg",
+                "/Files/MoviesGallery/chihiro02.jpg",
+                "/Files/MoviesGallery/chihiro03.jpg",
+                "/Files/MoviesGallery/chihiro04.jpg",
+                "/Files/MoviesGallery/chihiro05.jpg"
+            ]
         },
-        "galeria" : ["/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg"]
-    },
-    {
-        "id": "2",
-        "card": "/Files/MoviesCardsImg/marnie.jpg",
-        "poster": "/Files/MoviesPoster/marnie.jpg",
-        "titulo": "As Memórias de Marnie",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Anna, uma menina solitária e curiosa, decide explorar uma velha mansão abandonada e conhece uma garota loira misteriosa que somente ela consegue ver.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "2",
+            "card": "/Files/MoviesCardsImg/marnie.jpg",
+            "poster": "/Files/MoviesPoster/marnie.jpg",
+            "titulo": "As Memórias de Marnie",
+            "tagCard": "Hiromasa Yonebayashi - 2014",
+            "tags": "2014 ‧ Infantil/Mistério ‧ 1h 43m",
+            "nota": "7,7/10",
+            "sinopse": "Anna, uma menina solitária e curiosa, decide explorar uma velha mansão abandonada e conhece uma garota loira misteriosa chamada Marnie, com quem cria um forte laço de amizade.",
+            "trailer": "https://youtu.be/erIFHDuCjRU?si=trHhnaVvNzBmfsN9",
+            "ficha": {
+                "diretor": "Hiromasa Yonebayashi",
+                "roteiristas": "Keiko Niwa, Masashi Ando e Hiromasa Yonebayashi",
+                "estrelas": "Sara Takatsuki, Kasumi Arimura, Nanako Matsushima"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/marnie01.jpg",
+                "/Files/MoviesGallery/marnie02.jpg",
+                "/Files/MoviesGallery/marnie03.jpg",
+                "/Files/MoviesGallery/marnie04.jpg",
+                "/Files/MoviesGallery/marnie05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "3",
-        "card": "/Files/MoviesCardsImg/kiki.jpg",
-        "poster": "",
-        "titulo": "O Servico de Entregas Da Kiki",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Por ordem de sua mãe, Kiki parte para um aprendizado de um ano, acompanhada por seu gato preto. A um comando de sua vassoura mágica, ela vai parar na charmosa cidadezinha de Moreoastal. Infelizmente, os hotéis locais não aceitam bruxas e a polícia a flagra fazendo algumas travessuras.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "3",
+            "card": "/Files/MoviesCardsImg/kiki.jpg",
+            "poster": "/Files/MoviesPoster/kiki.jpg",
+            "titulo": "O Serviço de Entregas da Kiki",
+            "tagCard": "Hayao Miyazaki - 1989",
+            "tags": "1989 ‧ Infantil/Fantasia ‧ 1h 43m",
+            "nota": "7,8/10",
+            "sinopse": "Para completar seu treinamento como bruxa, a jovem Kiki parte em busca de uma nova cidade acompanhada por seu gato preto, Jiji. Montada em sua vassoura, ela abre um serviço de entregas e aprende lições valiosas sobre independência e amadurecimento.",
+            "trailer": "https://youtu.be/Fh2dmV0aHUE?si=8XCRube6z6Z6QOtM",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Minami Takayama, Kappei Yamaguchi, Rei Sakuma"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/kiki01.jpg",
+                "/Files/MoviesGallery/kiki02.jpg",
+                "/Files/MoviesGallery/kiki03.jpg",
+                "/Files/MoviesGallery/kiki04.jpg",
+                "/Files/MoviesGallery/kiki05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "4",
-        "card": "/Files/MoviesCardsImg/totoro.jpg",
-        "poster": "",
-        "titulo": "Meu Amigo Totoro",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "As irmãs Satsuki e Mei se mudam para o campo para ficar mais perto do hospital onde sua mãe está internada. Lá conhecem os Totoros, adoráveis criaturas místicas e alegres, que só podem ser vistas pelas crianças. Com eles, as duas irmãs viverão mágicas aventuras no campo.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "4",
+            "card": "/Files/MoviesCardsImg/totoro.jpg",
+            "poster": "/Files/MoviesPoster/totoro.jpg",
+            "titulo": "Meu Amigo Totoro",
+            "tagCard": "Hayao Miyazaki - 1988",
+            "tags": "1988 ‧ Fantasia/Aventura ‧ 1h 26m",
+            "nota": "8,1/10",
+            "sinopse": "As irmãs Satsuki e Mei se mudam para o campo para ficar mais perto do hospital onde sua mãe está internada. Lá conhecem os Totoros, adoráveis criaturas místicas e alegres, que só podem ser vistas pelas crianças. Com eles, as duas irmãs viverão mágicas aventuras.",
+            "trailer": "https://youtu.be/Ww1QZo-UrmM",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Chika Sakamoto, Noriko Hidaka, Hitoshi Takagi"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/totoro01.jpg",
+                "/Files/MoviesGallery/totoro02.jpg",
+                "/Files/MoviesGallery/totoro03.jpg",
+                "/Files/MoviesGallery/totoro04.jpg",
+                "/Files/MoviesGallery/totoro05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "5",
-        "card": "/Files/MoviesCardsImg/kokuriko.jpg",
-        "poster": "",
-        "titulo": "Da Colina Kokuriko",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Os adolescentes Umi e Shun lutam para preservar um velho edifício que vai ser demolido por causa das Olimpíadas de Tóquio.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "5",
+            "card": "/Files/MoviesCardsImg/kokuriko.jpg",
+            "poster": "/Files/MoviesPoster/kokuriko.jpg",
+            "titulo": "Da Colina Kokuriko",
+            "tagCard": "Goro Miyazaki - 2011",
+            "tags": "2011 ‧ Infantil/Romance ‧ 1h 31m",
+            "nota": "7,4/10",
+            "sinopse": "Os adolescentes Umi e Shun lutam para preservar um velho edifício do grêmio estudantil que vai ser demolido em preparação para os Jogos Olímpicos de Tóquio de 1964.",
+            "trailer": "https://youtu.be/9nzpk_Br6yo",
+            "ficha": {
+                "diretor": "Goro Miyazaki",
+                "roteiristas": "Hayao Miyazaki e Keiko Niwa",
+                "estrelas": "Masami Nagasawa, Junichi Okada, Keiko Takeshita"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/kokuriko01.jpg",
+                "/Files/MoviesGallery/kokuriko02.jpg",
+                "/Files/MoviesGallery/kokuriko03.jpg",
+                "/Files/MoviesGallery/kokuriko04.jpg",
+                "/Files/MoviesGallery/kokuriko05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "6",
-        "card": "/Files/MoviesCardsImg/castelo.jpg",
-        "poster": "",
-        "titulo": "O Castelo Animado",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma velha. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que pode ajudá-la a reverter o feitiço.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "6",
+            "card": "/Files/MoviesCardsImg/castelo.jpg",
+            "poster": "/Files/MoviesPoster/castelo.jpg",
+            "titulo": "O Castelo Animado",
+            "tagCard": "Hayao Miyazaki - 2004",
+            "tags": "2004 ‧ Infantil/Fantasia ‧ 1h 59m",
+            "nota": "8,2/10",
+            "sinopse": "Uma bruxa lança uma terrível maldição sobre a jovem Sophie transformando-a em uma senhora de idade. Desesperada, ela embarca em uma odisseia em busca do mago Howl, um misterioso feiticeiro que vive em um castelo que caminha.",
+            "trailer": "https://youtu.be/yhgzIgYMkOw",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Chieko Baisho, Takuya Kimura, Akihiro Miwa"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/castelo01.jpg",
+                "/Files/MoviesGallery/castelo02.jpg",
+                "/Files/MoviesGallery/castelo03.jpg",
+                "/Files/MoviesGallery/castelo04.jpg",
+                "/Files/MoviesGallery/castelo05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "7",
-        "card": "/Files/MoviesCardsImg/garca.jpg",
-        "poster": "",
-        "titulo": "O Menino e a Garça",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Mahito, um menino de 12 anos, luta para se estabelecer em uma nova cidade após a morte de sua mãe. Quando uma garça falante conta para Mahito que sua mãe continua viva, ele entra em uma torre abandonada em busca dela, o que o leva para outro mundo.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "7",
+            "card": "/Files/MoviesCardsImg/garca.jpg",
+            "poster": "/Files/MoviesPoster/garca.jpg",
+            "titulo": "O Menino e a Garça",
+            "tagCard": "Hayao Miyazaki - 2023",
+            "tags": "2023 ‧ Fantasia/Aventura ‧ 2h 4m",
+            "nota": "7,4/10",
+            "sinopse": "Mahito, um menino de 12 anos, luta para se estabelecer em uma nova cidade após a morte de sua mãe. Quando uma garça falante o guia até uma torre mágica e misteriosa, ele entra em um mundo fantasmagórico onde os vivos e os mortos coexistem.",
+            "trailer": "https://youtu.be/fOW-aZfd08I",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Soma Santoki, Masaki Suda, Aimyon"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/garca01.jpg",
+                "/Files/MoviesGallery/garca02.jpg",
+                "/Files/MoviesGallery/garca03.jpg",
+                "/Files/MoviesGallery/garca04.jpg",
+                "/Files/MoviesGallery/garca05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "8",
-        "card": "/Files/MoviesCardsImg/vidasaovento.jpg",
-        "poster": "",
-        "titulo": "Vidas ao Vento",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Jiro Horikoshi é um jovem que vive em uma cidade no interior do Japão. Ele tem o sonho de voar em um avião com formato de pássaro. A partir desse sonho, Jiro decide que construir um avião como deseja e colocá-lo no ar é a meta de sua vida. Durante a busca pela realização deste objetivo, ele conhece Naoko, uma jovem encantadora por quem se apaixona. No entanto, Naoko fica profundamente doente, sem saber se sobreviverá, e os planos de Jiro podem estar prestes a mudar.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "8",
+            "card": "/Files/MoviesCardsImg/vidasaovento.jpg",
+            "poster": "/Files/MoviesPoster/vidasaovento.jpg",
+            "titulo": "Vidas ao Vento",
+            "tagCard": "Hayao Miyazaki - 2013",
+            "tags": "2013 ‧ Drama/Biografia ‧ 2h 6m",
+            "nota": "7,7/10",
+            "sinopse": "Jiro Horikoshi tem o sonho de voar e projetar aviões inspirados no designer italiano Giovanni Battista Caproni. Durante sua jornada para se tornar um engenheiro aeronáutico de destaque, ele enfrenta os desafios do Japão antes da Segunda Guerra Mundial e se apaixona por Naoko.",
+            "trailer": "https://youtu.be/2Q9POWeoKYg",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/vidasaovento01.jpg",
+                "/Files/MoviesGallery/vidasaovento02.jpg",
+                "/Files/MoviesGallery/vidasaovento03.jpg",
+                "/Files/MoviesGallery/vidasaovento04.jpg",
+                "/Files/MoviesGallery/vidasaovento05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "9",
-        "card": "/Files/MoviesCardsImg/ponyo.jpg",
-        "poster": "",
-        "titulo": "Ponyo: Uma Amizade Que Veio do Mar",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "O garoto Sousuke encontra um peixinho dourado preso em uma garrafa e decide libertá-lo, sem saber que se trata da deusa do mar Ponyo. Filha de um poderoso mago, ela se comove com a atitude do menino e usa a magia do pai para se transformar em humana. Dessa forma, acredita poder fortalecer a amizade com Sousuke. Porém, a substância de sua poção mágica pode colocar em risco o vilarejo onde mora o menino.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "9",
+            "card": "/Files/MoviesCardsImg/ponyo.jpg",
+            "poster": "/Files/MoviesPoster/ponyo.jpg",
+            "titulo": "Ponyo: Uma Amizade Que Veio do Mar",
+            "tagCard": "Hayao Miyazaki - 2008",
+            "tags": "2008 ‧ Infantil/Fantasia ‧ 1h 41m",
+            "nota": "7,6/10",
+            "sinopse": "O garoto Sousuke encontra um peixinho dourado preso em uma garrafa e decide libertá-lo, sem saber que se trata de Ponyo, a filha de um poderoso feiticeiro do mar que deseja se transformar em humana para viver com ele.",
+            "trailer": "https://youtu.be/bskgkSwkWqA",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Yuria Nara, Hiroki Doi, Tomoko Yamaguchi"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/ponyo01.jpg",
+                "/Files/MoviesGallery/ponyo02.jpg",
+                "/Files/MoviesGallery/ponyo03.jpg",
+                "/Files/MoviesGallery/ponyo04.jpg",
+                "/Files/MoviesGallery/ponyo05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "10",
-        "card": "/Files/MoviesCardsImg/pequeninos.jpg",
-        "poster": "",
-        "titulo": "O Mundo dos Pequeninos",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Arrietty e sua família são seres pequenos, moram sob uma casa antiga e sobrevivem roubando itens da casa dos humanos e colocando a culpa em gatos e ratos. Quando o jovem Shawn se hospeda na casa, fica amigo de Arrietty, colocando o segredo em risco.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "10",
+            "card": "/Files/MoviesCardsImg/pequeninos.jpg",
+            "poster": "/Files/MoviesPoster/pequeninos.jpg",
+            "titulo": "O Mundo dos Pequeninos",
+            "tagCard": "Hiromasa Yonebayashi - 2010",
+            "tags": "2010 ‧ Infantil/Fantasia ‧ 1h 34m",
+            "nota": "7,6/10",
+            "sinopse": "Arrietty e sua família são seres diminutos que vivem sob o assoalho de uma casa de campo, sobrevivendo discretamente ao pegar emprestado pequenos itens dos humanos. Quando o jovem Shawn descobre a existência de Arrietty, uma amizade secreta floresce.",
+            "trailer": "https://youtu.be/VXTzKuE_vkM",
+            "ficha": {
+                "diretor": "Hiromasa Yonebayashi",
+                "roteiristas": "Hayao Miyazaki e Keiko Niwa",
+                "estrelas": "Mirai Shida, Ryunosuke Kamiki, Shinobu Otake"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/pequeninos01.jpg",
+                "/Files/MoviesGallery/pequeninos02.jpg",
+                "/Files/MoviesGallery/pequeninos03.jpg",
+                "/Files/MoviesGallery/pequeninos04.jpg",
+                "/Files/MoviesGallery/pequeninos05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "11",
-        "card": "/Files/MoviesCardsImg/kaguya.jpg",
-        "poster": "",
-        "titulo": "O Conto da Princesa Kaguya",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Kaguya era uma bebê que foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobiçada por cinco nobres, dentre eles, o próprio imperador.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "11",
+            "card": "/Files/MoviesCardsImg/kaguya.jpg",
+            "poster": "/Files/MoviesPoster/kaguya.jpg",
+            "titulo": "O Conto da Princesa Kaguya",
+            "tagCard": "Isao Takahata - 2013",
+            "tags": "2013 ‧ Fantasia/Drama ‧ 2h 17m",
+            "nota": "8,0/10",
+            "sinopse": "Encontrada dentro de um tronco de bambu brilhante por um cortador de bambu, uma minúscula menina cresce rapidamente e se torna uma jovem deslumbrante cobiçada por nobres de todo o Japão, escondendo contudo um segredo sobre sua verdadeira origem mística.",
+            "trailer": "https://youtu.be/W7icb_d6kAU",
+            "ficha": {
+                "diretor": "Isao Takahata",
+                "roteiristas": "Isao Takahata e Riko Sakaguchi",
+                "estrelas": "Aki Asakura, Kengo Kora, Takeo Chii"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/kaguya01.jpg",
+                "/Files/MoviesGallery/kaguya02.jpg",
+                "/Files/MoviesGallery/kaguya03.jpg",
+                "/Files/MoviesGallery/kaguya04.jpg",
+                "/Files/MoviesGallery/kaguya05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "12",
-        "card": "/Files/MoviesCardsImg/gatos.jpg",
-        "poster": "",
-        "titulo": "O Reino dos Gatos",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Haru salva um gato que estava prestes a ser atropelado por um caminhão e descobre que ele é, na verdade, um príncipe. Por gratidão o Rei dos Gatos a pede em casamento, e a menina é levada para o Reino dos Gatos. Agora, ela quer sua liberdade.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "12",
+            "card": "/Files/MoviesCardsImg/gatos.jpg",
+            "poster": "/Files/MoviesPoster/gatos.jpg",
+            "titulo": "O Reino dos Gatos",
+            "tagCard": "Hiroyuki Morita - 2002",
+            "tags": "2002 ‧ Infantil/Fantasia ‧ 1h 15m",
+            "nota": "7,1/10",
+            "sinopse": "Haru salva um gato de ser atropelado e logo descobre que ele é o Príncipe do Reino dos Gatos. Como agradecimento, ela recebe propostas inusitadas e acaba sendo levada para o reino felino, precisando da ajuda do Barão para recuperar sua liberdade.",
+            "trailer": "https://youtu.be/Gp-4x_gcvv4",
+            "ficha": {
+                "diretor": "Hiroyuki Morita",
+                "roteiristas": "Reiko Yoshida",
+                "estrelas": "Chizuru Ikewaki, Yoshihiko Hakamada, Tetsu Watanabe"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/gatos01.jpg",
+                "/Files/MoviesGallery/gatos02.jpg",
+                "/Files/MoviesGallery/gatos03.jpg",
+                "/Files/MoviesGallery/gatos04.jpg",
+                "/Files/MoviesGallery/gatos05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "13",
-        "card": "/Files/MoviesCardsImg/nausicaa.jpg",
-        "poster": "",
-        "titulo": "Nausicaä do Vale do Vento",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Mil se passaram após a Terra ser varrida pela Guerra dos Sete Dias de Fogo. O planeta se tornou hostil, cheio de florestas tóxicas e insetos gigantes. Enquanto tenta navegar nesse mundo de perigos, a princesa Nausicaä, a soberana de um pequeno reino, tenta de todas as formas salvar o seu povo e impedir que duas nações entrem em guerra e se destruam em um planeta agonizante.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "13",
+            "card": "/Files/MoviesCardsImg/nausicaa.jpg",
+            "poster": "/Files/MoviesPoster/nausicaa.jpg",
+            "titulo": "Nausicaä do Vale do Vento",
+            "tagCard": "Hayao Miyazaki - 1984",
+            "tags": "1984 ‧ Fantasia/Aventura ‧ 1h 57m",
+            "nota": "8,0/10",
+            "sinopse": "Mil anos após a devastação da Terra pela guerra, a corajosa princesa Nausicaä busca a harmonia entre as nações humanas em conflito e a Floresta Tóxica habitada por insetos gigantes.",
+            "trailer": "https://youtu.be/VfX-oZqT94Q",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Sumi Shimamoto, Mahito Tsujimura, Yoji Matsuda"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/nausicaa01.jpg",
+                "/Files/MoviesGallery/nausicaa02.jpg",
+                "/Files/MoviesGallery/nausicaa03.jpg",
+                "/Files/MoviesGallery/nausicaa04.jpg",
+                "/Files/MoviesGallery/nausicaa05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "14",
-        "card": "/Files/MoviesCardsImg/vagalumes.jpg",
-        "poster": "",
-        "titulo": "Túmulo dos Vagalumes",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Os irmão Setsuko e Seita vivem no Japão em meio a Segunda Guerra Mundial. Após a morte da mãe em um bombardeio e a convocação do pai para a Guerra, eles vão morar com alguns parentes. Insatisfeitos, saem da cidade e acabam em um abrigo na floresta.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "14",
+            "card": "/Files/MoviesCardsImg/vagalumes.jpg",
+            "poster": "/Files/MoviesPoster/vagalumes.jpg",
+            "titulo": "Túmulo dos Vagalumes",
+            "tagCard": "Isao Takahata - 1988",
+            "tags": "1988 ‧ Drama/Guerra ‧ 1h 29m",
+            "nota": "8,5/10",
+            "sinopse": "Durante os últimos meses da Segunda Guerra Mundial no Japão, os irmãos órfãos Seita e Setsuko lutam desesperadamente pela sobrevivência em meio à escassez, à dor e à indiferença social.",
+            "trailer": "https://youtu.be/4vPeTlvZIp8",
+            "ficha": {
+                "diretor": "Isao Takahata",
+                "roteiristas": "Isao Takahata",
+                "estrelas": "Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/vagalumes01.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "15",
-        "card": "/Files/MoviesCardsImg/ontem.jpg",
-        "poster": "",
-        "titulo": "Memórias de Ontem",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Taeko é uma mulher solteira que se dedica apenas ao trabalho. Ela sai de sua nativa Tóquio pela primeira vez e viaja a Yamagata para visitar a família da irmã durante a colheita anual de açafrão-bastardo. Ao longo da viagem, ela começa a questionar se sua vida estressante é o que desejava quando jovem.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "15",
+            "card": "/Files/MoviesCardsImg/ontem.jpg",
+            "poster": "/Files/MoviesPoster/ontem.jpg",
+            "titulo": "Memórias de Ontem",
+            "tagCard": "Isao Takahata - 1991",
+            "tags": "1991 ‧ Drama/Romance ‧ 1h 58m",
+            "nota": "7,6/10",
+            "sinopse": "Taeko, uma mulher urbana de 27 anos, viaja para o interior para ajudar na colheita rural. Durante a viagem, memórias nostálgicas de sua infância na escola primária vêm à tona, fazendo-a reavaliar as escolhas de sua vida.",
+            "trailer": "https://youtu.be/0hy9svx7q6g",
+            "ficha": {
+                "diretor": "Isao Takahata",
+                "roteiristas": "Isao Takahata",
+                "estrelas": "Miki Imai, Toshiagari Yanagiba, Yoko Honna"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/ontem01.jpg",
+                "/Files/MoviesGallery/ontem02.jpg",
+                "/Files/MoviesGallery/ontem03.jpg",
+                "/Files/MoviesGallery/ontem04.jpg",
+                "/Files/MoviesGallery/ontem05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "16",
-        "card": "/Files/MoviesCardsImg/porco.jpg",
-        "poster": "",
-        "titulo": "Porco Rosso: O Último Herói",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "No final da década de 1920, o piloto de avião Porco Rosso luta pela paz nos céus como um soldado contratado. Em suas viagens, ele se une à mecânica Fiona, que o apoia na luta contra o pirata do ar Curtis.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "16",
+            "card": "/Files/MoviesCardsImg/porco.jpg",
+            "poster": "/Files/MoviesPoster/porco.jpg",
+            "titulo": "Porco Rosso: O Último Herói",
+            "tagCard": "Hayao Miyazaki - 1992",
+            "tags": "1992 ‧ Aventura/Comédia ‧ 1h 34m",
+            "nota": "7,7/10",
+            "sinopse": "Na Itália da década de 1930, um piloto de hidroavião veterano que foi magicamente transformado em um porco atua como caçador de recompensas contra piratas do céu, enquanto lida com seu passado e novos rivais.",
+            "trailer": "https://youtu.be/6_XUo8zPz4g",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Shichiro Kameyama, Tokiko Kato, Tsuneie Tsugawa"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/porco01.jpg",
+                "/Files/MoviesGallery/porco02.jpg",
+                "/Files/MoviesGallery/porco03.jpg",
+                "/Files/MoviesGallery/porco04.jpg",
+                "/Files/MoviesGallery/porco05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "17",
-        "card": "/Files/MoviesCardsImg/sussurros.jpg",
-        "poster": "",
-        "titulo": "Sussurros do Coração",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Shizuku, uma estudante que sonha ser uma escritora e decide, durante o verão, ler vinte livros. Mas, curiosamente, todas as edições que Shizuki pegou na biblioteca já haviam sido lidas por um tal de Seiji Amasawa.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "17",
+            "card": "/Files/MoviesCardsImg/sussurros.jpg",
+            "poster": "/Files/MoviesPoster/sussurros.jpg",
+            "titulo": "Sussurros do Coração",
+            "tagCard": "Yoshifumi Kondo - 1995",
+            "tags": "1995 ‧ Romance/Drama ‧ 1h 51m",
+            "nota": "7,9/10",
+            "sinopse": "Shizuku é uma jovem estudante apaixonada por leitura que descobre que todos os livros que retira da biblioteca já foram lidos por um misterioso rapaz chamado Seiji. Isso dá início a um romance inspirador sobre autodescoberta e sonhos futuros.",
+            "trailer": "https://youtu.be/0pAksK3i5c8",
+            "ficha": {
+                "diretor": "Yoshifumi Kondo",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Yoko Honna, Issei Takahashi, Takashi Tachibana"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/sussurros01.jpg",
+                "/Files/MoviesGallery/sussurros02.jpg",
+                "/Files/MoviesGallery/sussurros03.jpg",
+                "/Files/MoviesGallery/sussurros04.jpg",
+                "/Files/MoviesGallery/sussurros05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "18",
-        "card": "/Files/MoviesCardsImg/oceano.jpg",
-        "poster": "",
-        "titulo": "Eu Posso Ouvir o Oceano",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "A chegada de uma bela estudante de Tóquio provoca uma problema na relação entre dois melhores amigos.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "18",
+            "card": "/Files/MoviesCardsImg/oceano.jpg",
+            "poster": "/Files/MoviesPoster/oceano.jpg",
+            "titulo": "Eu Posso Ouvir o Oceano",
+            "tagCard": "Tomomi Mochizuki - 1993",
+            "tags": "1993 ‧ Romance/Drama ‧ 1h 12m",
+            "nota": "6,6/10",
+            "sinopse": "A chegada de uma aluna transferida de Tóquio abala a rotina e a forte amizade entre dois rapazes em Kochi, desencadeando conflitos românticos e sentimentos reprimidos.",
+            "trailer": "https://youtu.be/8lP0j70fF_c",
+            "ficha": {
+                "diretor": "Tomomi Mochizuki",
+                "roteiristas": "Kaoru Tada / Seiji Okuda",
+                "estrelas": "Nobuo Tobita, Toshihiko Seki, Yoko Sakakibara"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/oceano01.jpg",
+                "/Files/MoviesGallery/oceano02.jpg",
+                "/Files/MoviesGallery/oceano03.jpg",
+                "/Files/MoviesGallery/oceano04.jpg",
+                "/Files/MoviesGallery/oceano05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "19",
-        "card": "/Files/MoviesCardsImg/terramar.jpg",
-        "poster": "/Files/MoviesPoster/terramar.jpg",
-        "titulo": "Contos de Terramar",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "O mago Ged observa que o mundo está em desequilíbrio e conhece Arren, um jovem príncipe que diz estar sendo perseguido por uma sombra. Os dois se unem para descobrir o que está causando a instabilidade e encontram a bruxa Kumo.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "19",
+            "card": "/Files/MoviesCardsImg/terramar.jpg",
+            "poster": "/Files/MoviesPoster/terramar.jpg",
+            "titulo": "Contos de Terramar",
+            "tagCard": "Goro Miyazaki - 2006",
+            "tags": "2006 ‧ Fantasia/Aventura ‧ 1h 55m",
+            "nota": "6,3/10",
+            "sinopse": "O mago Ged observa que o mundo está em desequilíbrio e conhece Arren, um jovem príncipe perseguido por uma sombra. Os dois se unem para descobrir a causa da instabilidade enquanto enfrentam a temível bruxa Kumo.",
+            "trailer": "https://youtu.be/83w0jK0GHgs",
+            "ficha": {
+                "diretor": "Goro Miyazaki",
+                "roteiristas": "Goro Miyazaki e Keiko Niwa",
+                "estrelas": "Bunta Sugawara, Junichi Okada, Aoi Teshima"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/terramar01.jpg",
+                "/Files/MoviesGallery/terramar02.jpg",
+                "/Files/MoviesGallery/terramar03.jpg",
+                "/Files/MoviesGallery/terramar04.jpg",
+                "/Files/MoviesGallery/terramar05.jpg"
+            ]
         },
-        "galeria" : []
-    },
-    {
-        "id": "20",
-        "card": "/Files/MoviesCardsImg/pompoko.jpg",
-        "poster": "",
-        "titulo": "PomPoko: A Grande Batalha dos Guaxinins",
-        "tagCard": "Hayao Miyazaki - 2014",
-        "tags": "",
-        "nota": "",
-        "sinopse": "Os humanos estão expulsando os guaxinins de seu lar, mas eles estão prontos para lutar e revidar.",
-        "trailer": "",
-        "ficha":{
-            "diretor": "Hiromasa Yonebayashi",
-            "roteiristas": "Joan G. Robinson, Keiko Niwa e Masashi Andô",
-            "estrelas": "Sara Takatsuki, Kasumi Arimura e Nanako Matsushima"
+        {
+            "id": "20",
+            "card": "/Files/MoviesCardsImg/pompoko.jpg",
+            "poster": "/Files/MoviesPoster/pompoko.jpg",
+            "titulo": "PomPoko: A Grande Batalha dos Guaxinins",
+            "tagCard": "Isao Takahata - 1994",
+            "tags": "1994 ‧ Fantasia/Comédia ‧ 1h 59m",
+            "nota": "7,3/10",
+            "sinopse": "Quando a expansão urbana ameaça destruir a floresta onde vivem, os tanuki (guaxinins metamorfos) decidem usar seus poderes mágicos de transformação para sabotar as construções humanas e proteger seu lar.",
+            "trailer": "https://youtu.be/_qL2R0Uv9QY",
+            "ficha": {
+                "diretor": "Isao Takahata",
+                "roteiristas": "Isao Takahata",
+                "estrelas": "Makoto Nonomura, Yuriko Ishida, Shinchô Kokontei"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/pompoko01.jpg",
+                "/Files/MoviesGallery/pompoko02.jpg",
+                "/Files/MoviesGallery/pompoko03.jpg",
+                "/Files/MoviesGallery/pompoko04.jpg",
+                "/Files/MoviesGallery/pompoko05.jpg"
+            ]
         },
-        "galeria" : ["/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg","/Files/MoviesCardsImg/pompoko.jpg"]
-    }
-]}
+        {
+            "id": "21",
+            "card": "/Files/MoviesCardsImg/aya.jpg",
+            "poster": "/Files/MoviesPoster/aya.jpg",
+            "titulo": "Aya e a Bruxa",
+            "tagCard": "Goro Miyazaki - 2020",
+            "tags": "2020 ‧ Infantil/Fantasia ‧ 1h 22m",
+            "nota": "4,8/10",
+            "sinopse": "Uma órfã esperta que adora mandar em tudo é adotada por uma bruxa excêntrica e levada para uma casa misteriosa repleta de poções e feitiços, onde ela usa sua astúcia para virar o jogo.",
+            "trailer": "https://youtu.be/_jKqR2oN6lU",
+            "ficha": {
+                "diretor": "Goro Miyazaki",
+                "roteiristas": "Emi Gunji e Keiko Niwa",
+                "estrelas": "Kokoro Hirasawa, Shinjiro Ishikawa, Gaku Hamada"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/aya01.jpg",
+                "/Files/MoviesGallery/aya02.jpg",
+                "/Files/MoviesGallery/aya03.jpg",
+                "/Files/MoviesGallery/aya04.jpg",
+                "/Files/MoviesGallery/aya05.jpg"
+            ]
+        },
+        {
+            "id": "22",
+            "card": "/Files/MoviesCardsImg/yamada.jpg",
+            "poster": "/Files/MoviesPoster/yamada.jpg",
+            "titulo": "Meus Vizinhos, os Yamadas",
+            "tagCard": "Isao Takahata - 1999",
+            "tags": "1999 ‧ Comédia/Família ‧ 1h 44m",
+            "nota": "7,1/10",
+            "sinopse": "Uma comédia leve e bem-humorada em formato de tirinha que retrata o cotidiano excêntrico, divertido e afetuoso da família Yamada no subúrbio japonês.",
+            "trailer": "https://youtu.be/1mJ4C7Kz_1g",
+            "ficha": {
+                "diretor": "Isao Takahata",
+                "roteiristas": "Isao Takahata",
+                "estrelas": "Masako Araki, Toru Masuoka, Naoko Hayashibara"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/yamada01.jpg",
+                "/Files/MoviesGallery/yamada02.jpg",
+                "/Files/MoviesGallery/yamada03.jpg",
+                "/Files/MoviesGallery/yamada04.jpg",
+                "/Files/MoviesGallery/yamada05.jpg"
+            ]
+        },
+        {
+            "id": "23",
+            "card": "/Files/MoviesCardsImg/mononoke.jpg",
+            "poster": "/Files/MoviesPoster/mononoke.jpg",
+            "titulo": "Princesa Mononoke",
+            "tagCard": "Hayao Miyazaki - 1997",
+            "tags": "1997 ‧ Aventura/Fantasia ‧ 2h 14m",
+            "nota": "8,4/10",
+            "sinopse": "Diagnosticado com uma maldição mortal, o príncipe Ashitaka viaja em busca de cura e se vê no meio de uma guerra implacável entre os deuses da floresta e uma colônia mineira liderada pela Lady Eboshi, auxiliada por San, a Princesa Mononoke.",
+            "trailer": "https://youtu.be/4OiMOHGEWdc",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/mononoke01.jpg",
+                "/Files/MoviesGallery/mononoke02.jpg",
+                "/Files/MoviesGallery/mononoke03.jpg",
+                "/Files/MoviesGallery/mononoke04.jpg",
+                "/Files/MoviesGallery/mononoke05.jpg"
+            ]
+        },
+        {
+            "id": "24",
+            "card": "/Files/MoviesCardsImg/onyourmark.jpg",
+            "poster": "/Files/MoviesPoster/onyourmark.jpg",
+            "titulo": "Em Sua Marca",
+            "tagCard": "Hayao Miyazaki - 1995",
+            "tags": "1995 ‧ Animação/Curta ‧ 6m",
+            "nota": "7,2/10",
+            "sinopse": "Curta-metragem musical experimental que acompanha dois policiais em um futuro distópico subterrâneo que resgatam uma garota com asas de anjo e tentam libertá-la rumo aos céus.",
+            "trailer": "https://youtu.be/V6aBw_0s2bM",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Chage, Aska"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/onyourmark01.jpg",
+                "/Files/MoviesGallery/onyourmark02.jpg",
+                "/Files/MoviesGallery/onyourmark03.jpg",
+                "/Files/MoviesGallery/onyourmark04.jpg",
+                "/Files/MoviesGallery/onyourmark05.jpg"
+            ]
+        },
+        {
+            "id": "25",
+            "card": "/Files/MoviesCardsImg/ceu.jpg",
+            "poster": "/Files/MoviesPoster/ceu.jpg",
+            "titulo": "O Castelo no Céu",
+            "tagCard": "Hayao Miyazaki - 1986",
+            "tags": "1986 ‧ Aventura/Fantasia ‧ 2h 4m",
+            "nota": "8,0/10",
+            "sinopse": "Um jovem mineiro chamado Pazu e uma garota chamada Sheeta unem forças para encontrar Laputa, uma lendária ilha flutuante no céu, enquanto fogem de piratas aéreos e agentes do governo gananciosos.",
+            "trailer": "https://youtu.be/8YKUNqfsztE",
+            "ficha": {
+                "diretor": "Hayao Miyazaki",
+                "roteiristas": "Hayao Miyazaki",
+                "estrelas": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/ceu01.jpg",
+                "/Files/MoviesGallery/ceu02.jpg",
+                "/Files/MoviesGallery/ceu03.jpg",
+                "/Files/MoviesGallery/ceu04.jpg",
+                "/Files/MoviesGallery/ceu05.jpg"
+            ]
+        },
+        {
+            "id": "26",
+            "card": "/Files/MoviesCardsImg/ghibliesepisodes2.jpg",
+            "poster": "/Files/MoviesPoster/ghibliesepisodes2.jpg",
+            "titulo": "Ghiblies: Episódio 2",
+            "tagCard": "Yoshiyuki Momose - 2002",
+            "tags": "2002 ‧ Comédia/Curta ‧ 25m",
+            "nota": "6,7/10",
+            "sinopse": "Série de curtas animados cômicos que retratam situações do dia a dia e anedotas divertidas sobre a vida dos funcionários e artistas dentro do próprio estúdio Ghibli.",
+            "trailer": "https://youtu.be/Bq6x-YQkYyM",
+            "ficha": {
+                "diretor": "Yoshiyuki Momose",
+                "roteiristas": "Yoshiyuki Momose",
+                "estrelas": "Toshihiko Seki, Masako Suzuki, Yayoi Kazuki"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/ghibliesepisodes201.jpg",
+                "/Files/MoviesGallery/ghibliesepisodes202.jpg",
+                "/Files/MoviesGallery/ghibliesepisodes203.jpg",
+                "/Files/MoviesGallery/ghibliesepisodes204.jpg",
+                "/Files/MoviesGallery/ghibliesepisodes205.jpg"
+            ]
+        },
+        {
+            "id": "27",
+            "card": "/Files/MoviesCardsImg/redturtle.jpg",
+            "poster": "/Files/MoviesPoster/redturtle.jpg",
+            "titulo": "A Tartaruga Vermelha",
+            "tagCard": "Michaël Dudok de Wit - 2016",
+            "tags": "2016 ‧ Animação/Fantasia ‧ 1h 20m",
+            "nota": "7,5/10",
+            "sinopse": "Um homem naufraga em uma ilha tropical deserta e solitária. Ao tentar escapar em uma jangada, suas tentativas são sistematicamente frustradas por uma misteriosa tartaruga vermelha, dando início a uma jornada poética sobre o ciclo da vida.",
+            "trailer": "https://youtu.be/Sw_Ljkkvhmg",
+            "ficha": {
+                "diretor": "Michaël Dudok de Wit",
+                "roteiristas": "Michaël Dudok de Wit e Pascale Ferran",
+                "estrelas": "Emmanuel Garijo"
+            },
+            "galeria": [
+                "/Files/MoviesGallery/redturtle01.jpg",
+                "/Files/MoviesGallery/redturtle02.jpg",
+                "/Files/MoviesGallery/redturtle03.jpg",
+                "/Files/MoviesGallery/redturtle04.jpg",
+                "/Files/MoviesGallery/redturtle05.jpg"
+            ]
+        }
+    ]
+}

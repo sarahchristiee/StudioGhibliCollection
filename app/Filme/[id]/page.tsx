@@ -1,3 +1,5 @@
+
+
 import moviesData from '@/../public/Files/Collection.json';
 import HeroSectionMovie from '../../components/HeroSectionMovie/HeroSectionMovie';
 import Slider from '../../components/Slider/Slider';
@@ -62,7 +64,7 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                 </section>
 
                 {/* trailer */}
-                <section className='w-full max-w-6xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
+                <section className='w-full max-w-5xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
                     <div className='flex items-center gap-4 w-full pb-5'>
                         <p className='whitespace-nowrap font-bold text-3xl font-franklin'>Trailer</p>
                         <hr className='flex-1 border-t-2 border-[#026E00]' />
@@ -80,7 +82,7 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                 </section>
 
                 {/* ficha técnica */}
-                <section className='w-full max-w-6xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
+                <section className='w-full max-w-5xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
                     <div className='flex items-center gap-4 w-full pb-5'>
                         <p className='whitespace-nowrap font-bold text-3xl font-franklin'>Ficha Técnica</p>
                         <hr className='flex-1 border-t-2 border-[#026E00]' />
@@ -108,7 +110,7 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                 </section>
 
                 {/* carrosel gelaria */}
-                <section className='w-full max-w-6xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
+                <section className='w-full max-w-5xl mx-auto mt-10 px-4 sm:px-8 pt-10'>
                     <div className='flex items-center gap-4 w-full pb-5'>
                         <p className='whitespace-nowrap font-bold text-3xl font-franklin'>Galeria</p>
                         <hr className='flex-1 border-t-2 border-[#026E00]' />
@@ -120,6 +122,7 @@ export default async function FilmeDetalhePage({ params }: PageProps) {
                 </section>
 
             </main>
+            <Footer />
         </>
     );
 }
