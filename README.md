@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# <img src="public/img/totorinho.svg" alt="Logo Totorinho" width="40" align="center" /> Studio Ghibli Collection
 
-## Getting Started
+O **Studio Ghibli Collection** é uma interface web interativa desenvolvida para funcionar como um acervo completo de todos os filmes do consagrado estúdio de animação japonês. O design da plataforma foi cuidadosamente construído para seguir rigorosamente os padrões estéticos e a identidade visual do Studio Ghibli, proporcionando uma experiência imersiva aos usuários.
 
-First, run the development server:
+## 🎞️ Sobre o Acervo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O projeto centraliza e organiza o catálogo oficial do estúdio, disponibilizando as principais informações de cada obra cinematográfica:
+* **Ficha Técnica Detalhada:** Títulos originais, diretores, ano de lançamento e sinopses.
+* **Galeria de Premiações:** Seção interativa destacando os prêmios conquistados por cada produção (como Oscars, Ursos de Ouro e BAFTAs).
+* **Identidade Visual Fiel:** Efeitos visuais suaves, tipografia clássica e paleta de cores inspirada diretamente na direção de arte dos filmes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22" height="22" align="center" /> **React** — Construção da interface de usuário e gerenciamento da interatividade baseada em componentes.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="22" height="22" align="center" /> **TypeScript** — Tipagem estática para garantir maior segurança, estabilidade e produtividade no desenvolvimento.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="22" height="22" align="center" /> **Tailwind CSS** — Framework CSS utilitário para uma estilização ágil, moderna e totalmente responsiva.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="22" height="22" align="center" /> **JSON** — Estrutura de dados leve utilizada para armazenar e catalogar todas as informações relativas aos filmes.
 
-## Learn More
+## 🌐 Acesso ao Projeto
 
-To learn more about Next.js, take a look at the following resources:
+Você pode explorar o acervo completo e interagir com a plataforma através do link abaixo:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 **[Acessar o Studio Ghibli Collection](https://seu-link-aqui.com)**
