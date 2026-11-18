@@ -22,4 +22,4 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 Você pode explorar o acervo completo e interagir com a plataforma através do link abaixo:
 
-🔗 **[Acessar o Studio Ghibli Collection](https://seu-link-aqui.com)**
+🔗 **[Acessar o Studio Ghibli Collection](https://studioghiblicollection.vercel.app/)**
